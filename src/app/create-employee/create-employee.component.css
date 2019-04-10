@@ -3,3 +3,12 @@
     border-color: rgb(211, 82, 50);
 }
 
+hr {
+    border: 1px solid white;
+}
+
+.glyph-icon {
+    width:16px;
+    height:16px;
+}
+
